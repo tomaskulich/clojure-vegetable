@@ -1,0 +1,10 @@
+pom.xml
+*jar
+*.swp
+/lib/
+/classes/
+/out/
+/target/
+.lein-deps-sum
+.lein-repl-history
+.lein-plugins/
